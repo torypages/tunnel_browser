@@ -1,0 +1,9 @@
+[main]
+ssh_key_name: keyname 
+api_key: 327878wfeh237898723bui237892389fnu23r8923f89uiof234
+browser_dir: /home/somedirthatexists
+ssh_key: /home/location/for/digiocean/pirvatekey
+proxy_port: 9999
+ssh_username: username
+droplet_name: somename
+default_page: http://whatismyip.com
